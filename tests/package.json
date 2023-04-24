@@ -1,0 +1,8 @@
+{
+  "name": "tests",
+  "private": true,
+  "version": "0.0.1",
+  "devDependencies": {
+    "changesets-issue-repro": "workspace:*"
+  }
+}
